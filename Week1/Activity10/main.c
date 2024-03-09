@@ -9,6 +9,7 @@ int main( void ) {
     char *ptr = NULL; // the memory address of the array
     size_t capacity = 20; // the capacity of the array
     size_t count = 0; // the number of actual values stored in the array
+    int multiplier = 1;
 
     ptr = realloc(ptr, sizeof(char[capacity])); // allocate memory
     if (ptr == NULL){ // check if allocation worked
@@ -26,9 +27,11 @@ int main( void ) {
 
     int c = fgetc(file); // read next character from file
     while (c != EOF) {
-        /* TODO: re-allocate memory pointed to by ptr if count == capacity
-        *  TODO: check if the pointer returned by realloc is not NULL
-        */
+
+        if (count >= capacity)
+        {
+            ptr = realloc(ptr, sizeof(char[capacity * multiplier++]));
+        }
 
         ptr[count++] = (char) c; // store current character, then increase count
         c = fgetc(file); // read next character from file

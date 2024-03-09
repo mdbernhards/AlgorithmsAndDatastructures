@@ -39,9 +39,6 @@ Explain why these ranges do or do not overlap.
 4. 
 	8192 bytes
 
-
-They overlap because same memory location can be used to store values of different objects, as long as these objects do not need to be accessed at the same time.
-
 ```C
 #include <stdio.h>
 
@@ -102,7 +99,12 @@ int main(void) {
 
 ### Activity 3: Using data that is no longer alive
 
-Record the answer to the activity's questions here.
+1.	
+	function returns address of local variable [-Wreturn-local-addr]
+2.	
+	create_array returns the address of a local variable, so after it gets returned the variables lifetime ends.
+3. 
+	No because local variable gets destroyed after the function ends.
 
 ```c
 #include <stdio.h>
@@ -127,27 +129,74 @@ int main(void) {
 
 ### Activity 4: Using malloc
 
-Record the answer to the activity's questions here.
+```c
+#include <stdlib.h>   
+
+int* allocate_memory(int count)
+{
+    return (int*) malloc(sizeof(int[count]));
+}
+
+int main(void) {
+    unsigned long *a;
+    float *b, *c;
+
+    a = (unsigned long*) malloc(sizeof(unsigned long));
+    b = (float*) malloc(256 * sizeof(float));
+    c = (float*) malloc(sizeof(float[256]));
+}
+```
 
 ### Activity 5: Allocating zero bytes
 
-Record the answer to the activity's questions here.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+    int *a, *b, *c, num;
+
+    num = 22;
+
+    a = (int*) malloc(0);
+    b = (int*) malloc(sizeof(int));
+    c = (int*) malloc(-5);
+    
+    printf("%d\n", *a);
+    printf("%d\n", *b);
+
+    a = &num;
+
+    printf("%d\n", *a);
+}
+```
+1.	
+	It returns a memory address
+2.	
+	It stores the value probably because it overwrites other values?
+3. 
+	No because I think it loops back around and tries to alocate a very large size, error message: argument 1 value '18446744073709551611' exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
 
 ### Activity 6: Using allocated memory as an array
 
-Record the answer to the activity's questions here.
+1.	
+	Capacity is 24, int size is 4 so 24/4  is 6 int's
+2.	
+	It works okay???
+3. 
+	size_t should be capacity*sizeof(int) or 4 and in for loop it should start with int i = 0
 
 ```c
 int * create_array(size_t capacity) {
-	int *ptr = (int*) malloc(capacity);
+	int *ptr = (int*) malloc(capacity*4);
 	return ptr;
 }
 
 int main( void ) {
 	const size_t capacity = 24;
 	int * array = create_array(capacity);
-	for (size_t i = 1; i <= capacity; i++) array[i] = 42;
-	for (size_t i = 1; i <= capacity; i++) {
+	for (size_t i = 0; i <= capacity; i++) array[i] = 42;
+	for (size_t i = 0; i <= capacity; i++) {
 		printf("array[%zu] = %d\n", i, array[i]);
 	}
 }
@@ -155,7 +204,7 @@ int main( void ) {
 
 ### Activity 7: Fixing a memory leak
 
-Record the answer to the activity's questions here.
+Added free(ptr) after the if else, because after that a new ptr gets created and the old one stops being used
 
 ```c
 #include <stdio.h>
@@ -170,6 +219,7 @@ int main(void) {
 			printf("Failed to allocate %zu bytes of memory\n", sizeof(int[size]));
 			break;
 		}
+		free(ptr);
 	}
 	puts("All done!");
 }
@@ -177,11 +227,12 @@ int main(void) {
 
 ### Activity 8: Dangerous `free`s
 
-Record the answer to the activity's questions here.
+1. Using free() on a pointer that was not obtained using malloc. You get expetion: Segmentation fault
+2. Using free() on a pointer, whose value is NULL. Works okay, because it doesn't point to anything?
 
 ### Activity 9: Using realloc
 
-Record the answer to the activity's questions here.
+Out of 10000 times it relocates the address 99.89% of the time.
 
 ```c
 int main( void ) {
@@ -190,36 +241,90 @@ int main( void ) {
 	for (int count = 0; count < 10000; capacity += 1024, ++count) {
 		float *new_grades = (float*)realloc(grades, sizeof(float[capacity]));
 		if (new_grades != NULL){
-			// TODO: count how often the memory is reallocated to another memory address
-			//       by comparing the memory addresses of the block before and after the reallocation
-			grades = new_grades;	// make the new block the current block
+            if (grades == new_grades)
+            {
+                newMemoryAdressCount++;
+            }
+
+			grades = new_grades;
 		}
 	}
+    printf("New adress count: %d\n", newMemoryAdressCount);
 }
 ```
 
 ### Activity 10: Using a dynamically sized buffer
 
-Download the project for this activity from Blackboard.
 
-Include your code & notes here.
+
+```c
+#include <stdio.h>      // for printf, fopen, fgetc
+#include <stdlib.h>     // for realloc & free
+#include <assert.h>     // for assert
+
+/*
+ * Reads the file "E.coli.txt" into a dynamically allocated array
+ */
+int main( void ) {
+    char *ptr = NULL; // the memory address of the array
+    size_t capacity = 20; // the capacity of the array
+    size_t count = 0; // the number of actual values stored in the array
+    int multiplier = 1;
+
+    ptr = realloc(ptr, sizeof(char[capacity])); // allocate memory
+    if (ptr == NULL){ // check if allocation worked
+        fprintf(stderr, "Memory allocation failed\n");
+        return 1;
+    }
+
+    // open the file "E.coli.txt" for reading in text mode
+    FILE *file = fopen("E.coli.txt", "r");
+
+    if (file == NULL) { // check if file was opened
+        fprintf(stderr, "Error opening file\n");
+        return 1;
+    }
+
+    int c = fgetc(file); // read next character from file
+    while (c != EOF) {
+
+        if (count >= capacity)
+        {
+            ptr = realloc(ptr, sizeof(char[capacity * multiplier++]));
+        }
+
+        ptr[count++] = (char) c; // store current character, then increase count
+        c = fgetc(file); // read next character from file
+    }
+
+    // count how many 'a's are in the file
+    int freq = 0;
+    for (size_t i = 0; i < count; ++i) if (ptr[i] == 'a') freq++;
+
+    printf("Character 'a' appears %d times in the array - this should be 1142069\n", freq);
+
+    // let the program crash if the frequency is not correct
+    assert(freq == 1142069);
+
+    free(ptr); // release the memory
+}
+```
 
 ## Looking back
 
 ### What we've learnt
 
-Formulate at least one lesson learned.
+We learned how lifetime works for objects, how dinamically allocated memory works
 
 ### What were the surprises
 
-Fill in...
+How much text there was
 
 ### What problems we've encountered
 
-Fill in...
+Understanding the large amount of text
 
 ### What was or still is unclear
 
-Fill in...
-
+I'm not sure
 
