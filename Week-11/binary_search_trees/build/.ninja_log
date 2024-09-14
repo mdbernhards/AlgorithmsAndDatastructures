@@ -1,0 +1,8 @@
+# ninja log v5
+88	2345	7388096374962304	CMakeFiles/BSTs.dir/bintree_node_tester.cpp.obj	ff4d714d124dbd6a
+14	2491	7388096375681528	CMakeFiles/BSTs.dir/bintree_node.cpp.obj	9287c405fd5ba283
+7	2529	7388096376789897	CMakeFiles/BSTs.dir/main.cpp.obj	26321e25802211c7
+30	2944	7388096381160235	CMakeFiles/BSTs.dir/bintree_tester.cpp.obj	7645e18dbf407fbb
+78	3538	7388096387160793	CMakeFiles/BSTs.dir/bintree_writer.cpp.obj	7f76be5a7794daf1
+10	1054	7388097550043244	CMakeFiles/BSTs.dir/bintree.cpp.obj	cbca609384070f4b
+21	991	7388099315051159	CMakeFiles/BSTs.dir/bintree.cpp.obj	cbca609384070f4b

@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/main.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/main.c",
+  "output": "CMakeFiles/hashing.dir/main.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/list.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/list.c",
+  "output": "CMakeFiles/hashing.dir/list.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/hashmap.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmap.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmap.c",
+  "output": "CMakeFiles/hashing.dir/hashmap.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/test_hashmap.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/test_hashmap.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/test_hashmap.c",
+  "output": "CMakeFiles/hashing.dir/test_hashmap.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/statistics.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/statistics.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/statistics.c",
+  "output": "CMakeFiles/hashing.dir/statistics.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/hashmapfunctions.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmapfunctions.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmapfunctions.c",
+  "output": "CMakeFiles/hashing.dir/hashmapfunctions.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -o CMakeFiles/hashing.dir/pair.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/pair.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/pair.c",
+  "output": "CMakeFiles/hashing.dir/pair.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_hashmap.dir/test_hashmap.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/test_hashmap.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/test_hashmap.c",
+  "output": "CMakeFiles/test_hashmap.dir/test_hashmap.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_hashmap.dir/hashmap.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmap.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmap.c",
+  "output": "CMakeFiles/test_hashmap.dir/hashmap.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_hashmap.dir/list.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/list.c",
+  "output": "CMakeFiles/test_hashmap.dir/list.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_hashmap.dir/test_main.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/test_main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/test_main.c",
+  "output": "CMakeFiles/test_hashmap.dir/test_main.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_hashmap.dir/hashmapfunctions.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmapfunctions.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/hashmapfunctions.c",
+  "output": "CMakeFiles/test_hashmap.dir/hashmapfunctions.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_hashmap.dir/pair.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week8/hashing/pair.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/pair.c",
+  "output": "CMakeFiles/test_hashmap.dir/pair.c.o"
+}
+]

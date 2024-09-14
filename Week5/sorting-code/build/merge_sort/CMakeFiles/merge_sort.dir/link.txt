@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/merge_sort.dir/main.c.o CMakeFiles/merge_sort.dir/merge_sort.c.o CMakeFiles/merge_sort.dir/test_merge_sort.c.o -o merge_sort  ../sortinglib/libsortinglib.a 

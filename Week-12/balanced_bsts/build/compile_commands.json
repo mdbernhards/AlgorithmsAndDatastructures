@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/BSTs.dir/main.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/main.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/main.cpp",
+  "output": "CMakeFiles/BSTs.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/BSTs.dir/bintree_node.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_node.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_node.cpp",
+  "output": "CMakeFiles/BSTs.dir/bintree_node.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/BSTs.dir/bintree.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree.cpp",
+  "output": "CMakeFiles/BSTs.dir/bintree.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/BSTs.dir/bintree_tester.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_tester.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_tester.cpp",
+  "output": "CMakeFiles/BSTs.dir/bintree_tester.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/BSTs.dir/bintree_writer.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_writer.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_writer.cpp",
+  "output": "CMakeFiles/BSTs.dir/bintree_writer.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/BSTs.dir/bintree_node_tester.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_node_tester.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-12/balanced_bsts/bintree_node_tester.cpp",
+  "output": "CMakeFiles/BSTs.dir/bintree_node_tester.cpp.o"
+}
+]

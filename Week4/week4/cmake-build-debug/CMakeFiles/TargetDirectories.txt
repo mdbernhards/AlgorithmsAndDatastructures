@@ -1,0 +1,14 @@
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/week4lib/CMakeFiles/week4lib.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/week4lib/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/week4lib/CMakeFiles/rebuild_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/stacks/CMakeFiles/stacks.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/stacks/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/stacks/CMakeFiles/rebuild_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/queues/CMakeFiles/queues.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/queues/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/queues/CMakeFiles/rebuild_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/circular-buffer/CMakeFiles/circular-buffer.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/circular-buffer/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug/circular-buffer/CMakeFiles/rebuild_cache.dir

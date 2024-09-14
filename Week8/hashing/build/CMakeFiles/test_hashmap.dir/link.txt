@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/test_hashmap.dir/test_hashmap.c.o CMakeFiles/test_hashmap.dir/hashmap.c.o CMakeFiles/test_hashmap.dir/list.c.o CMakeFiles/test_hashmap.dir/test_main.c.o CMakeFiles/test_hashmap.dir/hashmapfunctions.c.o CMakeFiles/test_hashmap.dir/pair.c.o -o test_hashmap 

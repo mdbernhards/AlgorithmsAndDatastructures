@@ -1,0 +1,10 @@
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/letter_counter/CMakeFiles/letter_counter.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/letter_counter/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/letter_counter/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter/CMakeFiles/word_counter.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter/CMakeFiles/test_counter.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter/CMakeFiles/generic_functions.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/doubly_linked_list.dir/main.o -c /mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/main.c",
+  "output": "CMakeFiles/doubly_linked_list.dir/main.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/doubly_linked_list.dir/list.o -c /mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/list.c",
+  "output": "CMakeFiles/doubly_linked_list.dir/list.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/doubly_linked_list.dir/test_list.o -c /mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/test_list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/doubly_linked/test_list.c",
+  "output": "CMakeFiles/doubly_linked_list.dir/test_list.o"
+}
+]

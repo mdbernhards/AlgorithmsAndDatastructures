@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -o CMakeFiles/intro.dir/intro.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/intro.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/intro.c",
+  "output": "CMakeFiles/intro.dir/intro.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_unsorted.dir/__/shared/set.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/shared/set.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/shared/set.c",
+  "output": "sets_unsorted/CMakeFiles/sets_unsorted.dir/__/shared/set.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_unsorted.dir/set.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/set.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/set.c",
+  "output": "sets_unsorted/CMakeFiles/sets_unsorted.dir/set.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_unsorted.dir/test_set.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/test_set.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/test_set.c",
+  "output": "sets_unsorted/CMakeFiles/sets_unsorted.dir/test_set.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_unsorted.dir/sets_unsorted.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/sets_unsorted.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_unsorted/sets_unsorted.c",
+  "output": "sets_unsorted/CMakeFiles/sets_unsorted.dir/sets_unsorted.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_sorted.dir/set.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/set.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/set.c",
+  "output": "sets_sorted/CMakeFiles/sets_sorted.dir/set.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_sorted.dir/__/shared/set.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/shared/set.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/shared/set.c",
+  "output": "sets_sorted/CMakeFiles/sets_sorted.dir/__/shared/set.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_sorted.dir/sets_sorted.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/sets_sorted.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/sets_sorted.c",
+  "output": "sets_sorted/CMakeFiles/sets_sorted.dir/sets_sorted.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/. -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sets_sorted.dir/test_set.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/test_set.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/sets_sorted/test_set.c",
+  "output": "sets_sorted/CMakeFiles/sets_sorted.dir/test_set.c.o"
+}
+]

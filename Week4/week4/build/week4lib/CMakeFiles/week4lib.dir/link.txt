@@ -1,0 +1,2 @@
+/usr/bin/ar qc libweek4lib.a CMakeFiles/week4lib.dir/week4lib.c.o
+/usr/bin/ranlib libweek4lib.a

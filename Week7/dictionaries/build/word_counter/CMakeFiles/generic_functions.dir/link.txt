@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/generic_functions.dir/generic_functions.c.o CMakeFiles/generic_functions.dir/binsearch.c.o -o generic_functions 

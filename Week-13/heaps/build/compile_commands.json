@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/heap_full.dir/main.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/main.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/main.cpp",
+  "output": "CMakeFiles/heap_full.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/heap_full.dir/maxheap.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/maxheap.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/maxheap.cpp",
+  "output": "CMakeFiles/heap_full.dir/maxheap.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/heap_full.dir/heap_tester.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/heap_tester.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/heap_tester.cpp",
+  "output": "CMakeFiles/heap_full.dir/heap_tester.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -fsanitize=address -o CMakeFiles/heap_full.dir/task.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/task.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-13/heaps/task.cpp",
+  "output": "CMakeFiles/heap_full.dir/task.cpp.o"
+}
+]

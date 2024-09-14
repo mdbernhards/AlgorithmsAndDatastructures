@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "week4lib",
+					"jsonFile" : "directory-week4lib-Debug-55d24e2808257f3ff31d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "week4lib",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "stacks",
+					"jsonFile" : "directory-stacks-Debug-127a0fe5d027c247e57c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "stacks",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "queues",
+					"jsonFile" : "directory-queues-Debug-eeaae1679095d3bdfd56.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "queues",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "circular-buffer",
+					"jsonFile" : "directory-circular-buffer-Debug-d67c26c8427934096a07.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "circular-buffer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "week4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "circular-buffer::@f2e48f799b778b92dc76",
+					"jsonFile" : "target-circular-buffer-Debug-7317f0709b5777906d65.json",
+					"name" : "circular-buffer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "queues::@b7252bf330278f827462",
+					"jsonFile" : "target-queues-Debug-fe7ec00d008274867496.json",
+					"name" : "queues",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "stacks::@35d43c39adcba69f6f7f",
+					"jsonFile" : "target-stacks-Debug-faa07ab48ebec45aeb7c.json",
+					"name" : "stacks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "week4lib::@38bb6d22ffe9213959cf",
+					"jsonFile" : "target-week4lib-Debug-9ca29a029dea8db16c55.json",
+					"name" : "week4lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/AlgorithmsAndDatastructures/Week4/week4/cmake-build-debug",
+		"source" : "C:/AlgorithmsAndDatastructures/Week4/week4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

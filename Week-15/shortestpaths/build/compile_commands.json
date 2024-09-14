@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/main.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/main.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/main.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/graph.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/graph.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/graph.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/graph.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/shortest_paths.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/shortest_paths.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/shortest_paths.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/shortest_paths.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/shortest_paths_tester.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/shortest_paths_tester.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/shortest_paths_tester.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/shortest_paths_tester.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/vertex_heap.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/vertex_heap.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/vertex_heap.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/vertex_heap.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/topological_sort.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/topological_sort.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/topological_sort.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/topological_sort.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/sp_dfs.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/sp_dfs.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/sp_dfs.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/sp_dfs.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/dijkstra_simple.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/dijkstra_simple.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/dijkstra_simple.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/dijkstra_simple.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/dijkstra_heap.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/dijkstra_heap.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/dijkstra_heap.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/dijkstra_heap.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/dot_writer.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/dot_writer.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/dot_writer.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/dot_writer.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/relaxer.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/relaxer.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/relaxer.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/relaxer.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -o CMakeFiles/shortestpaths.dir/colours.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/colours.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-15/shortestpaths/colours.cpp",
+  "output": "CMakeFiles/shortestpaths.dir/colours.cpp.o"
+}
+]

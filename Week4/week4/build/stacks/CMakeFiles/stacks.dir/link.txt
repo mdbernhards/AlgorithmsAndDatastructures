@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/stacks.dir/stacks.c.o -o stacks  ../week4lib/libweek4lib.a 

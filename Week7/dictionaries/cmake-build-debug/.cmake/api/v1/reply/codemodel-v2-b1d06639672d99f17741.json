@@ -1,0 +1,119 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "letter_counter",
+					"jsonFile" : "directory-letter_counter-Debug-dc21eeee785f5c3ddd8c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "letter_counter",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "word_counter",
+					"jsonFile" : "directory-word_counter-Debug-8b91c67dc47b4882d14a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "word_counter",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "dictionaries",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "generic_functions::@0a27fc30e483c7552e54",
+					"jsonFile" : "target-generic_functions-Debug-e9db4f580e64b346b879.json",
+					"name" : "generic_functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "letter_counter::@16dfddf68eb86ea644df",
+					"jsonFile" : "target-letter_counter-Debug-64e538f2107b3ae13d97.json",
+					"name" : "letter_counter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_counter::@0a27fc30e483c7552e54",
+					"jsonFile" : "target-test_counter-Debug-8a32cf1b7fb88725553d.json",
+					"name" : "test_counter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "word_counter::@0a27fc30e483c7552e54",
+					"jsonFile" : "target-word_counter-Debug-76d830185224e459dfc4.json",
+					"name" : "word_counter",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug",
+		"source" : "C:/AlgorithmsAndDatastructures/Week7/dictionaries"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

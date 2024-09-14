@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -fsanitize=address CMakeFiles/BSTs.dir/main.cpp.o CMakeFiles/BSTs.dir/bintree_node.cpp.o CMakeFiles/BSTs.dir/bintree.cpp.o CMakeFiles/BSTs.dir/bintree_tester.cpp.o CMakeFiles/BSTs.dir/bintree_writer.cpp.o CMakeFiles/BSTs.dir/bintree_node_tester.cpp.o -o BSTs 

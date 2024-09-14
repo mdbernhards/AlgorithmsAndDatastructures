@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/letter_counter.dir/main_letters.c.o CMakeFiles/letter_counter.dir/letter_counter.c.o CMakeFiles/letter_counter.dir/langugage_recognizer.c.o -o letter_counter 

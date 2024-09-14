@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/week4lib",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/week4lib/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/week4lib.dir/week4lib.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/week4lib/week4lib.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/week4lib/week4lib.c",
+  "output": "week4lib/CMakeFiles/week4lib.dir/week4lib.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/stacks",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/stacks/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/stacks.dir/stacks.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/stacks/stacks.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/stacks/stacks.c",
+  "output": "stacks/CMakeFiles/stacks.dir/stacks.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/queues",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/queues.dir/queues.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/queues.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/queues.c",
+  "output": "queues/CMakeFiles/queues.dir/queues.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/queues",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/queues.dir/deque.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/deque.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/deque.c",
+  "output": "queues/CMakeFiles/queues.dir/deque.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/circular-buffer",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/circular-buffer.dir/circular-buffer.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/circular-buffer.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/circular-buffer.c",
+  "output": "circular-buffer/CMakeFiles/circular-buffer.dir/circular-buffer.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/circular-buffer",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/circular-buffer.dir/buffer.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/buffer.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/buffer.c",
+  "output": "circular-buffer/CMakeFiles/circular-buffer.dir/buffer.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/circular-buffer",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/circular-buffer.dir/test_buffer.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/test_buffer.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/test_buffer.c",
+  "output": "circular-buffer/CMakeFiles/circular-buffer.dir/test_buffer.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/build/circular-buffer",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week4/week4/circular-buffer/../include -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/circular-buffer.dir/__/queues/deque.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/deque.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week4/week4/queues/deque.c",
+  "output": "circular-buffer/CMakeFiles/circular-buffer.dir/__/queues/deque.c.o"
+}
+]

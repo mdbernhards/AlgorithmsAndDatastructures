@@ -1,0 +1,3 @@
+/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/build/CMakeFiles/singly_linked_lists.dir
+/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/build/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/build/CMakeFiles/rebuild_cache.dir

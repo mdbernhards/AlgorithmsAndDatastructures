@@ -1,0 +1,10 @@
+# ninja log v5
+63	484	7321582464280487	circular-buffer/CMakeFiles/circular-buffer.dir/__/queues/deque.c.obj	278baf4a83f7de7b
+52	789	7321582465717396	circular-buffer/CMakeFiles/circular-buffer.dir/buffer.c.obj	7add52b54f8f270d
+30	792	7321582467272325	circular-buffer/CMakeFiles/circular-buffer.dir/test_buffer.c.obj	3ecb16b1bc3a75fa
+18	793	7321582467306313	circular-buffer/CMakeFiles/circular-buffer.dir/circular-buffer.c.obj	50e9999136decd33
+3	808	7321582467862990	week4lib/CMakeFiles/week4lib.dir/week4lib.c.obj	afb44c64351cdf9f
+809	1153	7321582471350301	week4lib/libweek4lib.a	70517a99835d568f
+1154	1330	7321582473069809	circular-buffer/circular-buffer.exe	63526839b360e8f
+4	150	7321582583745743	stacks/CMakeFiles/stacks.dir/stacks.c.obj	55c8c26074391b07
+151	306	7321582585221688	stacks/stacks.exe	5e7a8f1fb0436f88

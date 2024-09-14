@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/singly_linked_lists.dir/main.o -c /mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/main.c",
+  "output": "CMakeFiles/singly_linked_lists.dir/main.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/singly_linked_lists.dir/list.o -c /mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/list.c",
+  "output": "CMakeFiles/singly_linked_lists.dir/list.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -Wall -Wextra -pedantic -Werror -o CMakeFiles/singly_linked_lists.dir/test_list.o -c /mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/test_list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/week3/week3-linked-lists/singly_linked/test_list.c",
+  "output": "CMakeFiles/singly_linked_lists.dir/test_list.o"
+}
+]

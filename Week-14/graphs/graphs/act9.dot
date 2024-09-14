@@ -1,0 +1,24 @@
+digraph g {
+	rankdir = LR;	node[shape=circle style=filled];
+	a[name="a", fillcolor="white"];
+	b[name="b", fillcolor="white"];
+	c[name="c", fillcolor="white"];
+	d[name="d", fillcolor="white"];
+	e[name="e", fillcolor="white"];
+	f[name="f", fillcolor="white"];
+	k[name="k", fillcolor="white"];
+	j[name="j", fillcolor="white"];
+	h[name="h", fillcolor="white"];
+	g[name="g", fillcolor="white"];
+
+	edge[dir = forward];
+	a -> b[penwidth=2, color="black"];
+	b -> c[penwidth=2, color="black"];
+	d -> e[penwidth=2, color="black"];
+	e -> c[penwidth=2, color="black"];
+	e -> f[penwidth=2, color="black"];
+	k -> j[penwidth=2, color="black"];
+	k -> h[penwidth=2, color="black"];
+	j -> g[penwidth=2, color="black"];
+	h -> g[penwidth=2, color="black"];
+}

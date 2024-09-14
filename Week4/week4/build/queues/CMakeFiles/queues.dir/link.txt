@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/queues.dir/queues.c.o CMakeFiles/queues.dir/deque.c.o -o queues  ../week4lib/libweek4lib.a 

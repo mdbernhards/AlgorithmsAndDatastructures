@@ -1,0 +1,10 @@
+# ninja log v5
+2	922	7367791853907236	letter_counter/CMakeFiles/letter_counter.dir/main_letters.c.obj	432f4286cafd3cc0
+163	927	7367791854014816	letter_counter/CMakeFiles/letter_counter.dir/letter_counter.c.obj	bb882eeb0b2db66f
+20	996	7367791855161356	letter_counter/CMakeFiles/letter_counter.dir/langugage_recognizer.c.obj	6190df95c18c52a2
+996	1444	7367791859812269	letter_counter/letter_counter.exe	1c8c3c81dc7c91f0
+10	288	7367792080490287	word_counter/CMakeFiles/word_counter.dir/binsearch.c.obj	6799885454ab7351
+1	386	7367792081661235	word_counter/CMakeFiles/word_counter.dir/counter.c.obj	20222f36ec65064a
+30	389	7367792081683091	word_counter/CMakeFiles/word_counter.dir/pair.c.obj	c8e361f504b3c2a5
+6	266	7367792287753856	word_counter/CMakeFiles/word_counter.dir/word_counter.c.obj	cf111b8c5ca7f405
+267	483	7367792289809913	word_counter/word_counter.exe	edfbd463cd3c4341

@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/letter_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/letter_counter.dir/main_letters.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/letter_counter/main_letters.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/letter_counter/main_letters.c",
+  "output": "letter_counter/CMakeFiles/letter_counter.dir/main_letters.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/letter_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/letter_counter.dir/letter_counter.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/letter_counter/letter_counter.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/letter_counter/letter_counter.c",
+  "output": "letter_counter/CMakeFiles/letter_counter.dir/letter_counter.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/letter_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/letter_counter.dir/langugage_recognizer.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/letter_counter/langugage_recognizer.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/letter_counter/langugage_recognizer.c",
+  "output": "letter_counter/CMakeFiles/letter_counter.dir/langugage_recognizer.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/word_counter.dir/counter.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/counter.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/counter.c",
+  "output": "word_counter/CMakeFiles/word_counter.dir/counter.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/word_counter.dir/word_counter.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/word_counter.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/word_counter.c",
+  "output": "word_counter/CMakeFiles/word_counter.dir/word_counter.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/word_counter.dir/binsearch.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/binsearch.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/binsearch.c",
+  "output": "word_counter/CMakeFiles/word_counter.dir/binsearch.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/word_counter.dir/pair.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/pair.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/pair.c",
+  "output": "word_counter/CMakeFiles/word_counter.dir/pair.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_counter.dir/test_main.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/test_main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/test_main.c",
+  "output": "word_counter/CMakeFiles/test_counter.dir/test_main.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_counter.dir/counter.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/counter.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/counter.c",
+  "output": "word_counter/CMakeFiles/test_counter.dir/counter.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_counter.dir/binsearch.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/binsearch.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/binsearch.c",
+  "output": "word_counter/CMakeFiles/test_counter.dir/binsearch.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_counter.dir/test_counter.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/test_counter.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/test_counter.c",
+  "output": "word_counter/CMakeFiles/test_counter.dir/test_counter.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/test_counter.dir/pair.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/pair.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/pair.c",
+  "output": "word_counter/CMakeFiles/test_counter.dir/pair.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/generic_functions.dir/generic_functions.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/generic_functions.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/generic_functions.c",
+  "output": "word_counter/CMakeFiles/generic_functions.dir/generic_functions.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/build/word_counter",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/generic_functions.dir/binsearch.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/binsearch.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week7/dictionaries/word_counter/binsearch.c",
+  "output": "word_counter/CMakeFiles/generic_functions.dir/binsearch.c.o"
+}
+]

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "test_selection_sort.h": "c",
+        "array.h": "c",
+        "array": "c",
+        "merge_sort.h": "c",
+        "stdio.h": "c"
+    }
+}

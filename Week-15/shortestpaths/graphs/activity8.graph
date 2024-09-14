@@ -1,0 +1,23 @@
+undirected
+a b 2
+a d 6
+a f 7
+a g 8
+a h 7
+a j 7
+b d 3
+b e 2
+b f 4
+b h 4
+b j 4
+b c 8
+c d 4
+c f 4
+c g 3
+c h 4
+c j 4
+c e 6
+d e 2
+d f 2
+e g 4
+g h 1

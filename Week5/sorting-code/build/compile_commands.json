@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/merge_sort",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/../include -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/merge_sort.dir/main.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/main.c",
+  "output": "merge_sort/CMakeFiles/merge_sort.dir/main.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/merge_sort",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/../include -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/merge_sort.dir/merge_sort.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/merge_sort.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/merge_sort.c",
+  "output": "merge_sort/CMakeFiles/merge_sort.dir/merge_sort.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/merge_sort",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/../include -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/merge_sort.dir/test_merge_sort.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/test_merge_sort.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/merge_sort/test_merge_sort.c",
+  "output": "merge_sort/CMakeFiles/merge_sort.dir/test_merge_sort.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/selection_sort",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/../include -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/selection_sort.dir/main.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/main.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/main.c",
+  "output": "selection_sort/CMakeFiles/selection_sort.dir/main.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/selection_sort",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/../include -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/selection_sort.dir/selection_sort.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/selection_sort.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/selection_sort.c",
+  "output": "selection_sort/CMakeFiles/selection_sort.dir/selection_sort.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/selection_sort",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/../include -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/selection_sort.dir/test_selection_sort.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/test_selection_sort.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/selection_sort/test_selection_sort.c",
+  "output": "selection_sort/CMakeFiles/selection_sort.dir/test_selection_sort.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/sortinglib",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/sortinglib/../include/sortinglib -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sortinglib.dir/list.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/sortinglib/list.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/sortinglib/list.c",
+  "output": "sortinglib/CMakeFiles/sortinglib.dir/list.c.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/sortinglib",
+  "command": "/usr/bin/gcc  -I/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/sortinglib/../include/sortinglib -g -std=gnu99 -Wall -Wextra -pedantic -Werror -o CMakeFiles/sortinglib.dir/array.c.o -c /mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/sortinglib/array.c",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/sortinglib/array.c",
+  "output": "sortinglib/CMakeFiles/sortinglib.dir/array.c.o"
+}
+]

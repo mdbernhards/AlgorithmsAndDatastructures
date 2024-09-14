@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "merge_sort",
+					"jsonFile" : "directory-merge_sort-Debug-8a9e1ee49c1b4745d8c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "merge_sort",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "selection_sort",
+					"jsonFile" : "directory-selection_sort-Debug-e677a5433fda9ce0cc28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "selection_sort",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "sortinglib",
+					"jsonFile" : "directory-sortinglib-Debug-94b768df467fac1cfffe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sortinglib",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "sorting",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "merge_sort::@982686a148c3e841839f",
+					"jsonFile" : "target-merge_sort-Debug-7c450e859f01efda775b.json",
+					"name" : "merge_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "selection_sort::@b5c817c1dfb745e9d8a0",
+					"jsonFile" : "target-selection_sort-Debug-751ba462216a1def44ed.json",
+					"name" : "selection_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "sortinglib::@f2034e93770cc8331a55",
+					"jsonFile" : "target-sortinglib-Debug-a8ef55cb26db0e0d6060.json",
+					"name" : "sortinglib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build",
+		"source" : "/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

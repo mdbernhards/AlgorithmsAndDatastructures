@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/main.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/main.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/main.cpp",
+  "output": "CMakeFiles/graphs.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/graph.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/graph.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/graph.cpp",
+  "output": "CMakeFiles/graphs.dir/graph.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/visitor.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/visitor.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/visitor.cpp",
+  "output": "CMakeFiles/graphs.dir/visitor.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/topological_sort.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/topological_sort.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/topological_sort.cpp",
+  "output": "CMakeFiles/graphs.dir/topological_sort.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/dot_writer.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/dot_writer.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/dot_writer.cpp",
+  "output": "CMakeFiles/graphs.dir/dot_writer.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/colours.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/colours.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/colours.cpp",
+  "output": "CMakeFiles/graphs.dir/colours.cpp.o"
+},
+{
+  "directory": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -Wall -Wextra -pedantic -Werror -o CMakeFiles/graphs.dir/traversal_tester.cpp.o -c /mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/traversal_tester.cpp",
+  "file": "/mnt/c/AlgorithmsAndDatastructures/Week-14/graphs/traversal_tester.cpp",
+  "output": "CMakeFiles/graphs.dir/traversal_tester.cpp.o"
+}
+]

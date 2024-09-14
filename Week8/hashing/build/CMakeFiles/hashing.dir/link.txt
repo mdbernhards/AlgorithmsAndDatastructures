@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/hashing.dir/main.c.o CMakeFiles/hashing.dir/list.c.o CMakeFiles/hashing.dir/hashmap.c.o CMakeFiles/hashing.dir/test_hashmap.c.o CMakeFiles/hashing.dir/statistics.c.o CMakeFiles/hashing.dir/hashmapfunctions.c.o CMakeFiles/hashing.dir/pair.c.o -o hashing 

@@ -1,0 +1,71 @@
+digraph G {
+	node [shape = record,height=.1];
+	subgraph cluster1 {
+		label = ""
+		fontsize = 18
+		fontcolor = blue
+		a1 [label="<l> | {<c> 16} | <r> "]
+		a2 [label="<l> | {<c> 8} | <r> "]
+		a3 [label="<l> | {<c> 4} | <r> "]
+		a4 [label="<l> | {<c> 2} | <r> "]
+		a5 [label="<l> | {<c> 1} | <r> "]
+		a6 [label="<l> | {<c> 3} | <r> "]
+		a7 [label="<l> | {<c> 6} | <r> "]
+		a8 [label="<l> | {<c> 5} | <r> "]
+		a9 [label="<l> | {<c> 7} | <r> "]
+		a10 [label="<l> | {<c> 12} | <r> "]
+		a11 [label="<l> | {<c> 10} | <r> "]
+		a12 [label="<l> | {<c> 9} | <r> "]
+		a13 [label="<l> | {<c> 11} | <r> "]
+		a14 [label="<l> | {<c> 14} | <r> "]
+		a15 [label="<l> | {<c> 13} | <r> "]
+		a16 [label="<l> | {<c> 15} | <r> "]
+		a17 [label="<l> | {<c> 24} | <r> "]
+		a18 [label="<l> | {<c> 20} | <r> "]
+		a19 [label="<l> | {<c> 18} | <r> "]
+		a20 [label="<l> | {<c> 17} | <r> "]
+		a21 [label="<l> | {<c> 19} | <r> "]
+		a22 [label="<l> | {<c> 22} | <r> "]
+		a23 [label="<l> | {<c> 21} | <r> "]
+		a24 [label="<l> | {<c> 23} | <r> "]
+		a25 [label="<l> | {<c> 28} | <r> "]
+		a26 [label="<l> | {<c> 26} | <r> "]
+		a27 [label="<l> | {<c> 25} | <r> "]
+		a28 [label="<l> | {<c> 27} | <r> "]
+		a29 [label="<l> | {<c> 30} | <r> "]
+		a30 [label="<l> | {<c> 29} | <r> "]
+		a31 [label="<l> | {<c> 31} | <r> "]
+		a32 [label="<l> | {<c> 32} | <r> "]
+		a1:l -> a2:c
+		a2:l -> a3:c
+		a3:l -> a4:c
+		a4:l -> a5:c
+		a4:r -> a6:c
+		a3:r -> a7:c
+		a7:l -> a8:c
+		a7:r -> a9:c
+		a2:r -> a10:c
+		a10:l -> a11:c
+		a11:l -> a12:c
+		a11:r -> a13:c
+		a10:r -> a14:c
+		a14:l -> a15:c
+		a14:r -> a16:c
+		a1:r -> a17:c
+		a17:l -> a18:c
+		a18:l -> a19:c
+		a19:l -> a20:c
+		a19:r -> a21:c
+		a18:r -> a22:c
+		a22:l -> a23:c
+		a22:r -> a24:c
+		a17:r -> a25:c
+		a25:l -> a26:c
+		a26:l -> a27:c
+		a26:r -> a28:c
+		a25:r -> a29:c
+		a29:l -> a30:c
+		a29:r -> a31:c
+		a31:r -> a32:c
+	}
+}

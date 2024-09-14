@@ -1,0 +1,3 @@
+C:/AlgorithmsAndDatastructures/Week4/week4/stacks/cmake-build-debug/CMakeFiles/stacks.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/stacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week4/week4/stacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

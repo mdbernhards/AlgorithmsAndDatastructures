@@ -1,0 +1,4 @@
+/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build/CMakeFiles/hashing.dir
+/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build/CMakeFiles/test_hashmap.dir
+/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week8/hashing/build/CMakeFiles/rebuild_cache.dir

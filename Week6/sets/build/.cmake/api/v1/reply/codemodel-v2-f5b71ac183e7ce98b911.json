@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "sets_unsorted",
+					"jsonFile" : "directory-sets_unsorted-Debug-b16ba6ee1af7c822bb9d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sets_unsorted",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "sets_sorted",
+					"jsonFile" : "directory-sets_sorted-Debug-2d0b121f8cf4c1a9a86a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sets_sorted",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "sets",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "intro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intro-Debug-96753d0a454bdae3f97d.json",
+					"name" : "intro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sets_sorted::@4f6cf3a7b9950027025d",
+					"jsonFile" : "target-sets_sorted-Debug-d4cba5963fb804605e6c.json",
+					"name" : "sets_sorted",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sets_unsorted::@4ec5639487a657ec8c80",
+					"jsonFile" : "target-sets_unsorted-Debug-7512512d0335a3f99e83.json",
+					"name" : "sets_unsorted",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build",
+		"source" : "/mnt/c/AlgorithmsAndDatastructures/Week6/sets"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

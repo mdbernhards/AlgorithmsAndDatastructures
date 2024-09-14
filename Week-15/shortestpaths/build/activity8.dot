@@ -1,0 +1,36 @@
+digraph g {
+	rankdir = LR;	node[shape=circle style=filled];
+	a[name="a", fillcolor="white"];
+	b[name="b", fillcolor="white"];
+	d[name="d", fillcolor="white"];
+	f[name="f", fillcolor="white"];
+	g[name="g", fillcolor="white"];
+	h[name="h", fillcolor="white"];
+	j[name="j", fillcolor="white"];
+	e[name="e", fillcolor="white"];
+	c[name="c", fillcolor="white"];
+
+	edge[dir = none];
+	a -> b[penwidth=2, color="black", label="2"];
+	a -> d[penwidth=2, color="black", label="6"];
+	a -> f[penwidth=2, color="black", label="7"];
+	a -> g[penwidth=2, color="black", label="8"];
+	a -> h[penwidth=2, color="black", label="7"];
+	a -> j[penwidth=2, color="black", label="7"];
+	b -> d[penwidth=2, color="black", label="3"];
+	b -> e[penwidth=2, color="black", label="2"];
+	b -> f[penwidth=2, color="black", label="4"];
+	b -> h[penwidth=2, color="black", label="4"];
+	b -> j[penwidth=2, color="black", label="4"];
+	b -> c[penwidth=2, color="black", label="8"];
+	d -> e[penwidth=2, color="black", label="2"];
+	d -> f[penwidth=2, color="black", label="2"];
+	g -> h[penwidth=2, color="black", label="1"];
+	e -> g[penwidth=2, color="black", label="4"];
+	c -> d[penwidth=2, color="black", label="4"];
+	c -> f[penwidth=2, color="black", label="4"];
+	c -> g[penwidth=2, color="black", label="3"];
+	c -> h[penwidth=2, color="black", label="4"];
+	c -> j[penwidth=2, color="black", label="4"];
+	c -> e[penwidth=2, color="black", label="6"];
+}

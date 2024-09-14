@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/doubly_linked_list.dir/main.o CMakeFiles/doubly_linked_list.dir/list.o CMakeFiles/doubly_linked_list.dir/test_list.o -o doubly_linked_list 

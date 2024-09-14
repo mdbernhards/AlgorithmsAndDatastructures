@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/sets_unsorted.dir/__/shared/set.c.o CMakeFiles/sets_unsorted.dir/set.c.o CMakeFiles/sets_unsorted.dir/test_set.c.o CMakeFiles/sets_unsorted.dir/sets_unsorted.c.o -o sets_unsorted 

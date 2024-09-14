@@ -1,0 +1,10 @@
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/letter_counter/CMakeFiles/letter_counter.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/letter_counter/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/letter_counter/CMakeFiles/rebuild_cache.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/word_counter/CMakeFiles/word_counter.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/word_counter/CMakeFiles/test_counter.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/word_counter/CMakeFiles/generic_functions.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/word_counter/CMakeFiles/edit_cache.dir
+C:/AlgorithmsAndDatastructures/Week7/dictionaries/cmake-build-debug/word_counter/CMakeFiles/rebuild_cache.dir

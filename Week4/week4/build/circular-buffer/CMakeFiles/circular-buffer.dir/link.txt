@@ -1,0 +1,1 @@
+/usr/bin/gcc -g "CMakeFiles/circular-buffer.dir/circular-buffer.c.o" "CMakeFiles/circular-buffer.dir/buffer.c.o" "CMakeFiles/circular-buffer.dir/test_buffer.c.o" "CMakeFiles/circular-buffer.dir/__/queues/deque.c.o" -o circular-buffer  ../week4lib/libweek4lib.a 

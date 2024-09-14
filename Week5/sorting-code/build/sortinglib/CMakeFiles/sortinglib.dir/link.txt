@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsortinglib.a CMakeFiles/sortinglib.dir/list.c.o CMakeFiles/sortinglib.dir/array.c.o
+/usr/bin/ranlib libsortinglib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -fsanitize=address CMakeFiles/heap_full.dir/main.cpp.o CMakeFiles/heap_full.dir/maxheap.cpp.o CMakeFiles/heap_full.dir/heap_tester.cpp.o CMakeFiles/heap_full.dir/task.cpp.o -o heap_full 

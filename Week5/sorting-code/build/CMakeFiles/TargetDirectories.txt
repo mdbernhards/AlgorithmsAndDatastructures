@@ -1,0 +1,11 @@
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/merge_sort/CMakeFiles/merge_sort.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/merge_sort/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/merge_sort/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/selection_sort/CMakeFiles/selection_sort.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/selection_sort/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/selection_sort/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/sortinglib/CMakeFiles/sortinglib.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/sortinglib/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week5/sorting-code/build/sortinglib/CMakeFiles/rebuild_cache.dir

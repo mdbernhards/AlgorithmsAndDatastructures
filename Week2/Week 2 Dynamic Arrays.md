@@ -60,8 +60,6 @@ typedef struct array {
 
 ### Activity 3: Correct initialization
 
-Record your answer here.
-
 ```C
 array_t* array_init(array_t *p_array, size_t capacity) { // version 2
     if (p_array != NULL) {
@@ -116,8 +114,7 @@ Record your function definition here.
 
 ```c
 void array_append(array_t *arr, float value){
-    arr->capacity++;
-    arr->data = realloc(arr->data, sizeof(float[arr->capacity]));
+    array_reserve(arr, arr->count + 1)
     arr->data[arr->count++] = value;
 }
 ```
@@ -130,8 +127,7 @@ Record your function definition here.
 
 ```c
 void array_insert(array_t* arr, size_t index, float value) {
-    arr->capacity++;
-    arr->data = realloc(arr->data, sizeof(float[arr->capacity]));
+    array_reserve(arr, arr->count + 1)
 	for (int k = arr->count; k > index; k--){        
     	arr->data[k] = arr->data[k-1];
 	}

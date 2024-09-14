@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/singly_linked_lists.dir/main.o CMakeFiles/singly_linked_lists.dir/list.o CMakeFiles/singly_linked_lists.dir/test_list.o -o singly_linked_lists 

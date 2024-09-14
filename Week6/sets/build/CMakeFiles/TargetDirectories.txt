@@ -1,0 +1,9 @@
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/CMakeFiles/intro.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted/CMakeFiles/sets_unsorted.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_unsorted/CMakeFiles/rebuild_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted/CMakeFiles/sets_sorted.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted/CMakeFiles/edit_cache.dir
+/mnt/c/AlgorithmsAndDatastructures/Week6/sets/build/sets_sorted/CMakeFiles/rebuild_cache.dir
